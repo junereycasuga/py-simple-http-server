@@ -1,4 +1,4 @@
-Py Simple HTTP Server
+PyServ
 =====================
 
 Simple HTTP Server with socket programming with Python 3.
